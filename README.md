@@ -86,6 +86,7 @@ La clase debe contener métodos para facilitar:
 8.2 Implementar Iteradores para las listas enlazadas.
 
 ---
+
 Nombre y Apellido: María Celeste Contardi
 
 Email: mariacelestecontardid@gmail.com
@@ -93,4 +94,5 @@ Email: mariacelestecontardid@gmail.com
 Comisión: 2
 
 DNI N°: 39277015
+
 ---
